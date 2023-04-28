@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 Education
 ======
-* M.S. in Computer Science & Machine Learning, ETH ZÜrich, 2022
+* M.S. in Computer Science & Machine Learning, ETH Zürich, 2022
 * B.S. in Communication Systems, EPFL, 2019
 
 Work experience
@@ -28,9 +28,9 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
   
 <!-- Talks
